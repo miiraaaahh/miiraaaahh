@@ -1,4 +1,4 @@
-# **Hello!, My name is Meera Jasmine **
+# **Hello!, My name is Meera Jasmine**
 ### *Business Analytics | Data Analaytics*
 
 ---
