@@ -1,5 +1,5 @@
 # **Hello!, My name is Meera Jasmine**
-### *Business Analytics | Data Analaytics*
+### Business Analytics | Data Analytics
 
 ---
 
@@ -14,7 +14,7 @@ I am particularly interested in the execution side of projects, where data, stra
 
 ---
 
-##  **My Skills**
+##  **View my skills:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SAS Viya](https://img.shields.io/badge/SAS%20Viya-CC0000?style=for-the-badge&logo=sas&logoColor=white)
@@ -24,7 +24,7 @@ I am particularly interested in the execution side of projects, where data, stra
 
 ---
 
-##  **Connect With Me**
+##  **Connect with me here!**
 - **Portfolio:** https://meerajasmine.my.canva.site/portfolio  
 - **LinkedIn:** https://www.linkedin.com/in/meerajasmine2210  
 - **Email:** meerajasminee22@gmail.com  
